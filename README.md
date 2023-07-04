@@ -17,8 +17,6 @@
 <p> I started with <a href="[url](https://beta.bls.gov/dataQuery/find?st=0&r=20&s=popularity%3AD&fq=survey:[sm]&fq=cg:[Geography]&fq=cc:[States+and+Territories]&fq=ccd:[Massachusetts]&fq=mg:[Measure+Published+By]&fq=mg:[Measure+Category]&fq=mg:[Measure+Attributes]&fq=mc:[Employed]&more=0&q=hospitals)">BLS Data Finder.</a> </p>
 <p> I used the following data sets for the state of Massachusetts:</p>
 
-<a href="url">link text</a>
-
 <p><a href="https://beta.bls.gov/dataViewer/view/timeseries/SMU25000000500000001">Total Private</a></p>
 
 <p><a href="https://beta.bls.gov/dataViewer/view/timeseries/SMU25000009093000001">Local Government</a></p>
