@@ -49,3 +49,6 @@
 <h1>A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)</h1>
 <p> It would be interesting to get breakdowns for the state government educational services data (like are these mostly teaching assistants, etc). I had a tough time figuring out how to find the datasets I wanted on the BLS site. I'd like to next do a look at nursing home closures and CMS staffing data to find out which nursing homes have lost the most workers.
 </p>
+
+
+<p>Link to Github project: <a href="https://marinav13.github.io/MyProject/">here</a></p>
