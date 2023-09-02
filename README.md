@@ -51,4 +51,4 @@
 </p>
 
 
-<p>Link to Github project: <a href="https://marinav13.github.io/MyProject/">here</a></p>
+<p>Link to Github project: <a href="https://reportermarina.github.io/project1-jobs/">here</a></p>
